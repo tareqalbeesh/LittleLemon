@@ -144,3 +144,6 @@ DJOSER = {
     'USER_ID_FIELD': 'username',
 
 }
+
+
+TESTS = ['Restaurant.tests']
