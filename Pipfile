@@ -9,6 +9,7 @@ django-rest-framework = "*"
 mysqlclient = "*"
 djangorestframework = "*"
 djangorestframework-xml = "*"
+djoser = "*"
 
 [dev-packages]
 
